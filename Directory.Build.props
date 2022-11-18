@@ -1,0 +1,13 @@
+<Project>
+	<PropertyGroup>
+		<!-- All FreeSql packages -->
+		<FreeSqlPackageVersion>3.2.680</FreeSqlPackageVersion>
+
+		<!-- All Microsoft packages -->
+		<MicrosoftPackageVersion>5.0.0</MicrosoftPackageVersion>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Snowflake.CSharp" Version="1.3.0" />
+	</ItemGroup>
+</Project>
